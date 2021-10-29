@@ -8,6 +8,8 @@ fetch('https://todn22mvx9.execute-api.ap-south-1.amazonaws.com/dev/access',{
     })
 
 })
+let a;
+a=10;
 
 const xhr=new XMLHttpRequest();
 xhr.open('GET','https://todn22mvx9.execute-api.ap-south-1.amazonaws.com/dev/access?email=tajul.stn99@gmail.com')
